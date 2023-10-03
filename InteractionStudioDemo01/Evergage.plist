@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>account</key>
+	<string>alamotte1480660</string>
+	<key>dataset</key>
+	<string>recarga</string>
+	<key>usePushNotifications</key>
+	<true/>
+	<key>userId</key>
+	<string></string>
+</dict>
+</plist>
