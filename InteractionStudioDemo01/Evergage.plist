@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>account</key>
-	<string>alamotte1480660</string>
+	<string>[SUA CONTA]</string>
 	<key>dataset</key>
-	<string>recarga</string>
+	<string>[SEU DATASET]</string>
 	<key>usePushNotifications</key>
 	<true/>
 	<key>userId</key>
